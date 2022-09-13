@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32516.85
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TRSPK 1.3", "TRSPK 1.3\TRSPK 1.3.csproj", "{757837C7-5EC2-4FAC-BEF4-5EA3E1D18997}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{757837C7-5EC2-4FAC-BEF4-5EA3E1D18997}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{757837C7-5EC2-4FAC-BEF4-5EA3E1D18997}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{757837C7-5EC2-4FAC-BEF4-5EA3E1D18997}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{757837C7-5EC2-4FAC-BEF4-5EA3E1D18997}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A593C510-1F3B-4B22-8DD0-DC07F7113F3F}
+	EndGlobalSection
+EndGlobal
